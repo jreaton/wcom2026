@@ -1,0 +1,34 @@
+# ============================================================
+#  PARTICIPANTS — edit this file to change the people list.
+#  Each "- " block is one person.
+#
+#  Fields:
+#    name:        required
+#    affiliation: their institution
+#    role:        (optional) e.g. "Organizer", "Invited speaker"
+#    url:         (optional) personal/department webpage
+#
+#  To add a person, copy a block. Keep the two-space indentation.
+# ============================================================
+
+- name: "Julie Eaton"
+  affiliation: "University of Washington Tacoma"
+  role: "Organizer"
+  url: ""
+
+- name: "Aleksandr Aravkin"
+  affiliation: "University of Washington"
+  role: "Organizer"
+  url: "https://uw-amo.github.io/saravkin/"
+
+- name: "Speaker One"
+  affiliation: "University of Washington"
+  url: ""
+
+- name: "Speaker Two"
+  affiliation: "University of British Columbia Okanagan"
+  url: ""
+
+- name: "Speaker Three"
+  affiliation: "Simon Fraser University"
+  url: ""

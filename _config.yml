@@ -1,0 +1,55 @@
+# ============================================================
+#  WCOM Fall 2026 — site configuration
+#  Edit the values below. After changing this file you must
+#  STOP and RESTART the local server (Ctrl-C, then `make site`).
+# ============================================================
+
+title: "WCOM Fall 2026"
+tagline: "West Coast Optimization Meeting"
+description: "West Coast Optimization Meeting, Fall 2026, hosted at the University of Washington Tacoma."
+
+# Dates / location shown on the home page and in the footer.
+event_dates: "Fall 2026 (dates TBD)"
+location: "University of Washington Tacoma"
+organizers: "Julie Eaton and Aleksandr Aravkin"
+
+# When you deploy to GitHub Pages this becomes /<repo-name>.
+# Leave blank for local preview at http://localhost:4000/
+# When the repo is named e.g. "wcom2026", set:  baseurl: "/wcom2026"
+baseurl: ""
+url: ""
+
+# ----- Navigation bar -----------------------------------------
+# Add / remove / reorder items here. `url` is relative to the site root.
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Participants"
+    url: "/participants/"
+  - title: "Schedule"
+    url: "/schedule/"
+  - title: "Abstracts"
+    url: "/abstracts/"
+  - title: "Social"
+    url: "/social/"
+  - title: "Travel & Venue"
+    url: "/travel/"
+  - title: "Registration"
+    url: "/registration/"
+  - title: "Contact"
+    url: "/contact/"
+
+# ----- Build settings (you normally never touch these) --------
+include: [_pages]
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - vendor
