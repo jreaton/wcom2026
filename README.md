@@ -11,6 +11,8 @@ automatically (about a minute).
 
 ## Running it locally
 
+Clone the repository first (GitHub Desktop, or `git clone <repo-url>`).
+
 You need Ruby (the system Ruby 2.6 on macOS is fine; on Windows use
 [RubyInstaller](https://rubyinstaller.org/downloads/) — the "Ruby+Devkit"
 build). From the repo root:
@@ -88,6 +90,11 @@ Aleksandr. Items move to the "Done" list once implemented.
 
 ## Notes for maintainers
 
+- **Going live (one-time):** push to GitHub, then enable Pages (Settings → Pages →
+  Source: *Deploy from a branch* → `main`). Set `baseurl: "/wcom2026"` in
+  `_config.yml` so assets resolve under `username.github.io/wcom2026/`. Leave
+  `baseurl` empty for local preview at `localhost:4000/`. After setup, every push
+  to `main` redeploys automatically.
 - Pinned to **Jekyll 3.9** in the `Gemfile` so it builds on macOS system Ruby
   (2.6) — the same generation GitHub Pages runs, so local matches deployed. On
   Ruby 3.0+ you can switch to the `github-pages` gem.
