@@ -9,7 +9,7 @@ like Y?" Aleksandr will pick these up and make the changes.
 1. Add your request to the **list below** — just type it in plain English. One
    request per bullet. Include a link or screenshot description if it helps.
 2. Save and publish the file the same way you publish any other change
-   (see the editing guide, "Publishing your changes"), **or** simply email the
+   (see `README.md`, "Part 3 — Publishing your changes"), **or** simply email the
    request to Aleksandr — whichever is easier.
 3. When a request is done, it gets moved to the **Done** section at the bottom so
    we both have a record.
