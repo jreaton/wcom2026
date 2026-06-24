@@ -1,8 +1,10 @@
 # WCOM Fall 2026 website
 
-A [Jekyll](https://jekyllrb.com/) site deployed on GitHub Pages. Content lives in
-markdown and YAML; pushing to `main` rebuilds and publishes the live site
-automatically (about a minute).
+A [Jekyll](https://jekyllrb.com/) site. Content lives in markdown and YAML.
+
+This is a **private repository and is not published** — there is no public URL
+yet. You can both clone it, edit, and preview locally now. It only goes live once
+GitHub Pages is turned on; see [Publishing](#publishing-when-youre-ready-to-go-live).
 
 - **Editing content** (talks, people, abstracts, page text) → edit the files
   directly, see [Editing](#editing).
@@ -76,11 +78,31 @@ matter at the top — leave that block in place. A malformed YAML data file (bad
 indentation or a missing quote) will fail the build; `git`/GitHub Desktop can
 discard the change if that happens.
 
-## Publishing
+## Saving your changes
 
-Commit and push to `main` (GitHub Desktop or the command line). The live site
-rebuilds automatically. For a one-line fix you can also edit the file directly on
-github.com and commit there.
+Commit and push to `main` (GitHub Desktop or the command line). While the repo is
+private and unpublished, this just syncs your edits — nothing becomes public. For
+a one-line fix you can also edit the file directly on github.com and commit there.
+
+## Publishing (when you're ready to go live)
+
+The site stays completely private until you do this. To make it live:
+
+1. **Make the repo public.** Repo **Settings → General → Danger Zone → Change
+   repository visibility → Make public**. (GitHub Pages serves private repos only
+   on a paid GitHub plan; for a free account the repo must be public.)
+2. **Set the base path.** In `_config.yml`, change `baseurl: ""` to
+   `baseurl: "/wcom2026"`, then commit and push. (This makes the CSS and links
+   resolve under the published address. Set it back to `""` if you want to preview
+   locally at `http://localhost:4000/` again.)
+3. **Turn on GitHub Pages.** Repo **Settings → Pages → Build and deployment →
+   Source: *Deploy from a branch* → Branch: `main` → Folder: `/ (root)` → Save**.
+4. Wait about a minute. The site is then live at
+   **`https://<owner>.github.io/wcom2026/`** (e.g. `saravkin.github.io/wcom2026/`,
+   or `jreaton.github.io/wcom2026/` after the repo is transferred).
+
+After this one-time setup, every push to `main` redeploys automatically. To take
+it offline again, set Pages **Source** back to *None*.
 
 ## Requests for larger changes
 
@@ -90,11 +112,6 @@ Aleksandr. Items move to the "Done" list once implemented.
 
 ## Notes for maintainers
 
-- **Going live (one-time):** push to GitHub, then enable Pages (Settings → Pages →
-  Source: *Deploy from a branch* → `main`). Set `baseurl: "/wcom2026"` in
-  `_config.yml` so assets resolve under `username.github.io/wcom2026/`. Leave
-  `baseurl` empty for local preview at `localhost:4000/`. After setup, every push
-  to `main` redeploys automatically.
 - Pinned to **Jekyll 3.9** in the `Gemfile` so it builds on macOS system Ruby
   (2.6) — the same generation GitHub Pages runs, so local matches deployed. On
   Ruby 3.0+ you can switch to the `github-pages` gem.
