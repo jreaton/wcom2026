@@ -6,76 +6,33 @@ do not need to know any programming. Take it slowly; every step is spelled out.
 The website is made of simple **text files**. When you change a file and "publish"
 it, the live website updates automatically (it takes about a minute).
 
-There are **two ways** to edit the site:
+**The order of this guide:**
 
-- **The easy way (Part 1)** — edit text right on the GitHub website in your
-  browser. Nothing to install. Best for fixing a typo, updating a time, adding a
-  speaker. Changes go live automatically.
-- **The full way (Part 2)** — copy the website onto your own computer so you can
-  **see your changes before they go public**. This takes a one-time setup.
+1. **Part 1 — Install & view the site on your computer** (one-time setup).
+2. **Part 2 — Editing the pages** (what each file controls, with examples).
+3. **Part 3 — Publishing your changes** so they go live.
+4. **Part 4 — Asking for bigger changes** (layout/design) using `Requests.md`.
+5. **Part 5 — If something goes wrong.**
 
-Most of the time you'll only need **Part 1**. Read Part 3 to learn what each file
-controls.
-
----
-
-## A few words you'll see
-
-- **Repository (or "repo")** — the folder of files that make up the website,
-  stored on GitHub.
-- **Commit** — saving a change with a short note describing it.
-- **Markdown** — a simple way of writing formatted text. `**bold**` shows as
-  **bold**, `# Heading` makes a heading, etc. The files end in `.md`.
-- **YAML** — a simple list format used for the schedule and participant list.
-  The files end in `.yml`. The only rule that matters: **keep the spacing
-  (indentation) exactly as it is.**
+> A few words you'll see:
+> **Repository ("repo")** — the folder of files that make up the website.
+> **Commit** — saving a change with a short note.
+> **Markdown** — simple formatted text (files ending in `.md`); `**bold**` shows
+> as **bold**. **YAML** — a simple list format (files ending in `.yml`) used for
+> the schedule and participants; the one rule is **keep the spacing exactly as
+> it is**.
 
 ---
 
-# Part 1 — The easy way: edit on the GitHub website
+# Part 1 — Install & view the site on your computer
 
-You only need a free GitHub account (you have one: **jreaton**) and a web browser.
+This is a one-time setup of about 20–30 minutes. After that, viewing the site
+takes a couple of clicks. It lets you **see your changes before they go public**.
 
-### Step 1. Open the repository
+> **Which computer do you have?** Follow the **🍎 macOS** boxes if you're on a
+> Mac, or the **🪟 Windows** boxes if you're on a PC. Skip the other one.
 
-Go to the website's repository page in your browser. It will look like:
-
-> `https://github.com/jreaton/wcom2026`
-
-(Aleksandr will send you the exact link once it's set up.) Sign in if asked.
-
-### Step 2. Find the file you want to change
-
-Click the file name in the list (e.g. `_data/schedule.yml` to change the
-schedule). See **Part 3** below for which file controls what.
-
-### Step 3. Edit it
-
-1. Click the **pencil icon ✏️** in the top-right of the file (the tooltip says
-   "Edit this file").
-2. Make your change in the text box. (See Part 3 for examples.)
-3. Scroll to the bottom. In the **"Commit changes"** box, type a short note like
-   `Update lunch time`.
-4. Make sure **"Commit directly to the main branch"** is selected.
-5. Click the green **"Commit changes"** button.
-
-That's it. The live website rebuilds automatically in about a minute. Refresh the
-public site to see your change.
-
-> 💡 If something looks wrong after publishing, don't panic — every change is
-> saved in history and can be undone. Email Aleksandr and he can revert it.
-
----
-
-# Part 2 — The full way: preview on your own computer
-
-Use this if you want to **see your changes before they go live**. It's a one-time
-setup of about 20–30 minutes. After that, previewing takes two clicks.
-
-> **Which operating system are you on?** Follow the **macOS** boxes if you have a
-> Mac, or the **Windows** boxes if you have a PC. Skip the other one.
-
-## 2.1 Install a text editor — Visual Studio Code
+## 1.1 Install a text editor — Visual Studio Code
 
 This is the program you'll use to open and edit the files.
 
@@ -83,95 +40,87 @@ This is the program you'll use to open and edit the files.
 2. Click the big **Download** button (it detects your system automatically).
 3. Open the downloaded file and follow the installer.
 
-## 2.2 Install GitHub Desktop
+## 1.2 Install GitHub Desktop
 
 This program copies the website to your computer and publishes your changes —
-**without needing to type commands**.
+**without needing to type git commands**.
 
 1. Go to <https://desktop.github.com/>.
 2. Click **Download**, then run the installer.
 3. Open GitHub Desktop and **sign in** with your GitHub account (`jreaton`).
 
-## 2.3 Download ("clone") the website
+## 1.3 Download ("clone") the website
 
 1. In GitHub Desktop, choose **File ▸ Clone repository**.
-2. Find **`wcom2026`** in the list (or paste the repo URL).
-3. Pick a folder to save it in — for example your **Documents** folder — and
-   click **Clone**.
+2. Find **`wcom2026`** in the list (or paste the repo link Aleksandr sends you).
+3. Pick where to save it — e.g. your **Documents** folder — and click **Clone**.
 
 You now have a folder called `wcom2026` on your computer with all the files.
 
-## 2.4 Install Ruby (needed to preview the site)
-
-Ruby is the engine that turns the text files into web pages on your computer.
+## 1.4 Install Ruby (the engine that builds the site)
 
 ### 🍎 macOS
 
-Macs come with a version of Ruby already, which is enough for this site. To check
-it's there:
+Macs already include a version of Ruby that works for this site. To check:
 
-1. Open the **Terminal** app (press `Cmd + Space`, type `Terminal`, press Enter).
-2. Type this and press Enter:
-
-   ```
-   ruby -v
-   ```
-
-   If you see something like `ruby 2.6...`, you're set. Continue to 2.5.
+1. Open the **Terminal** app (press `Cmd + Space`, type `Terminal`, Enter).
+2. Type `ruby -v` and press Enter. If you see `ruby 2.6...` (or higher), you're
+   set — continue to 1.5.
 
 ### 🪟 Windows
 
 1. Go to <https://rubyinstaller.org/downloads/>.
 2. Download the recommended version marked **"=> Ruby+Devkit"** (the bold one).
-3. Run the installer. Accept the defaults. **At the end, leave the box
-   "Run `ridk install`" checked** and press Enter when a black window asks you to.
+3. Run the installer, accepting the defaults. **At the end, leave the box
+   "Run `ridk install`" checked**; a black window appears — press Enter to let it
+   finish.
 
-## 2.5 Start the website on your computer
+## 1.5 View the site
 
 1. In **GitHub Desktop**, with `wcom2026` open, go to the menu
-   **Repository ▸ Open in Terminal** (Mac) or
-   **Repository ▸ Open in Command Prompt** (Windows). A text window opens, already
-   pointed at the website folder.
-2. The **first time only**, type this and press Enter (it sets things up — takes a
-   couple of minutes):
+   **Repository ▸ Open in Terminal** (Mac) or **Open in Command Prompt**
+   (Windows). A text window opens, already pointing at the website folder.
+2. **The first time only**, type this and press Enter (takes a couple of minutes):
 
    ```
    bundle install --path vendor/bundle
    ```
 
-3. Then, **every time** you want to preview, type:
+3. Then, **every time** you want to view the site, type:
 
    ```
    bundle exec jekyll serve --livereload
    ```
 
-4. Wait until you see a line like **`Server running...`**. Now open your web
-   browser and go to:
+   (🍎 On a Mac you can use the shortcut `make site` instead — it does both
+   commands.)
+
+4. Wait for a line that says **`Server running...`**. Then open your web browser
+   and go to:
 
    > **http://localhost:4000/**
 
-   This is your private copy of the website. No one else can see it.
+   This is your **private** copy of the website — no one else can see it.
 
 5. **Leave that text window open** while you work. As you edit and save files, the
-   browser page updates by itself.
+   browser updates by itself. Press **`Ctrl + C`** in the window to stop it when
+   you're done.
 
-6. When you're finished, click in the text window and press **`Ctrl + C`** to stop
-   it.
-
-> 🍎 On Mac there's an even shorter way: in the terminal type `make site` instead
-> of the two commands above — it does both.
+> ⚠️ **Important:** always view the site at **http://localhost:4000/**. Do **not**
+> double-click the `.html` files to open them directly — they'll look broken
+> (unstyled) because the design files won't load that way.
 
 ---
 
-# Part 3 — What to change, and where
+# Part 2 — Editing the pages
 
-Here's what each file controls. You edit these the same way whether you're on the
-GitHub website (Part 1) or in VS Code on your computer (Part 2).
+Open the `wcom2026` folder in **VS Code** (File ▸ Open Folder). The files are
+listed on the left. Here's what each one controls:
 
-| If you want to change… | Open this file |
+| To change… | Open this file |
 |---|---|
-| Conference title, dates, location, organizers, **the menu at the top** | `_config.yml` |
-| The **home page** welcome text and important dates | `index.md` |
+| Conference title, dates, location, organizers, **the menu links** | `_config.yml` |
+| The **home page** intro and important dates | `index.md` |
 | **The schedule** (add / remove / reorder talks) | `_data/schedule.yml` |
 | The **participant list** | `_data/participants.yml` |
 | The **abstracts** | `_pages/abstracts.md` |
@@ -180,11 +129,14 @@ GitHub website (Part 1) or in VS Code on your computer (Part 2).
 | Registration text and the **sign-up form link** | `_pages/registration.md` |
 | Contact / organizer emails | `_pages/contact.md` |
 | The **banner photo** at the top | save your image as `assets/img/uw-tacoma.jpg` |
-| Colors and fonts | `assets/css/style.css` (the very top) |
+
+After you save a file, the page at http://localhost:4000/ refreshes on its own.
+(Exception: after editing `_config.yml`, stop the server with `Ctrl + C` and start
+it again — that one file doesn't auto-refresh.)
 
 ### Example: add a talk to the schedule
 
-Open `_data/schedule.yml`. Each talk is a block that looks like this:
+Open `_data/schedule.yml`. Each talk is a block like this:
 
 ```yaml
 - time: "09:00"
@@ -195,20 +147,19 @@ Open `_data/schedule.yml`. Each talk is a block that looks like this:
   abstract_id: "talk-1"
 ```
 
-To add another talk, **copy one of these blocks**, paste it where you want it in
-the day, and change the values inside the quotation marks. Important rules:
+To add a talk, **copy one of these blocks**, paste it where it belongs in the day,
+and change the text inside the quotation marks. Rules that matter:
 
 - Keep the dash `-` and the **two spaces** of indentation exactly as shown.
 - Keep the text inside the `"quotes"`.
 - `type:` can be `talk`, `break`, `meal`, or `admin` (opening/closing remarks).
   For breaks and meals you only need `time`, `type`, and `title`.
 
-The schedule table on the website updates itself from this file — you never touch
-the table directly.
+The schedule table builds itself from this file — you never edit the table by hand.
 
 ### Example: add a participant
 
-Open `_data/participants.yml`. Copy a block and edit it:
+Open `_data/participants.yml`, copy a block, and edit it:
 
 ```yaml
 - name: "Jane Smith"
@@ -217,17 +168,16 @@ Open `_data/participants.yml`. Copy a block and edit it:
   url: "https://example.com/jane"
 ```
 
-`role` and `url` are optional — you can leave the quotes empty: `url: ""`.
+`role` and `url` are optional — leave the quotes empty if unused: `url: ""`.
 
 ### Example: change ordinary page text
 
-Open any file in `_pages/` (or `index.md`). The text is plain Markdown. Just type
-over the words. A few handy bits:
+Open any file in `_pages/` (or `index.md`) and type over the words. Handy bits:
 
 ```markdown
 ## A heading
 
-Normal paragraph text. Make a word **bold** or *italic*.
+Normal paragraph. Make a word **bold** or *italic*.
 
 - a bullet
 - another bullet
@@ -235,50 +185,82 @@ Normal paragraph text. Make a word **bold** or *italic*.
 [Text of a link](https://the-web-address.com)
 ```
 
-Leave the lines at the very top between the two `---` lines alone — those set the
-page title.
+Leave the lines between the two `---` marks at the very top of the file alone —
+those set the page's title.
 
-> ⚠️ **One thing to avoid:** in the `.yml` files (schedule, participants), don't
-> change the indentation or remove the quotation marks. If the spacing gets off,
-> the page won't build. If that happens, undo your change (or ask Aleksandr).
+> ⚠️ In the `.yml` files (schedule, participants), don't change the indentation or
+> remove the quotation marks. If the spacing gets off, the page won't build. If
+> that happens, undo your change (see Part 5).
 
 ---
 
-# Part 4 — Publishing your changes (the full way)
+# Part 3 — Publishing your changes
 
-If you edited on the GitHub website (Part 1), you're already done — skip this.
+When you're happy with how it looks at http://localhost:4000/:
 
-If you edited files on your own computer and want them to go live:
-
-1. Open **GitHub Desktop**. It automatically lists the files you changed on the
-   left.
+1. Open **GitHub Desktop**. It lists the files you changed on the left.
 2. In the bottom-left box, type a short description, e.g. `Add three new talks`.
 3. Click **Commit to main**.
-4. Click **Push origin** (top of the window). 
+4. Click **Push origin** at the top.
 
 The live website rebuilds in about a minute.
 
-> Before publishing, it's a good idea to preview locally (Part 2.5) and check the
-> page at http://localhost:4000/ looks right.
+> **Quick typo fixes without any of the setup:** you can also edit a file straight
+> on the GitHub website — open the repo in your browser, click a file, click the
+> pencil ✏️ icon, edit, and click **Commit changes**. Good for a fast one-line fix;
+> use the local preview (Parts 1–2) for anything you want to see first.
+
+---
+
+# Part 4 — Asking for bigger changes (layout & design)
+
+**You do not have to make design or layout changes yourself.** For anything bigger
+than editing text — moving things around, changing colors, the banner, adding a
+whole new page, or "can this look like that other site?" — there's a file for it:
+
+### 📄 `Requests.md`
+
+Open **`Requests.md`** (in the main folder) and add your request as a bullet point
+under **"Open requests"**, in plain English. For example:
+
+```
+- Make the banner photo a bit shorter.
+- Add a "Sponsors" page with three logos.
+- Change the purple accent color to teal.
+```
+
+Then either **publish the file** (Part 3) or just **email the request to
+Aleksandr** — whichever is easier. He'll make the change and move the item to the
+"Done" list so you both have a record.
+
+Think of it this way:
+
+- **Text and content** (talks, names, dates, abstracts, page wording) → **you edit
+  directly** (Part 2).
+- **Layout, design, structure, new features** → **write it in `Requests.md`** and
+  we'll handle it.
+
+When in doubt, just put it in `Requests.md`.
 
 ---
 
 # Part 5 — If something goes wrong
 
 - **The local site won't start / errors in the text window.** Usually a spacing or
-  quotation-mark slip in a `.yml` file. Undo your last edit and try again. In
-  GitHub Desktop you can right-click a changed file and choose **Discard changes**
-  to revert it.
+  quotation-mark slip in a `.yml` file. In GitHub Desktop you can right-click a
+  changed file and choose **Discard changes** to undo it, then try again.
 - **`bundle: command not found` (Windows).** Ruby didn't finish installing. Re-run
-  the RubyInstaller and make sure you completed the `ridk install` step (2.4).
-- **The browser page didn't update.** Make sure the text window still shows
-  `Server running...`, then refresh the browser. If you edited `_config.yml`, you
-  must stop the server (`Ctrl + C`) and start it again — that one file doesn't
-  auto-refresh.
+  the RubyInstaller and complete the `ridk install` step (1.4).
+- **The page looks plain / unstyled.** You probably opened an `.html` file
+  directly. Always view through **http://localhost:4000/** instead.
+- **The browser didn't update.** Make sure the text window still shows
+  `Server running...`, then refresh. If you edited `_config.yml`, stop the server
+  (`Ctrl + C`) and start it again.
 - **You published something by mistake.** Nothing is ever truly lost — every
   version is saved. Email Aleksandr and he can roll it back.
 
 ---
 
-You've got this. For small text fixes, **Part 1** is all you need. When in doubt,
-make a change, preview it, and ask Aleksandr if anything looks off.
+For small text fixes, Parts 1–3 are all you need. For anything else, use
+`Requests.md`. When in doubt, make a change, preview it, and ask Aleksandr if
+anything looks off.

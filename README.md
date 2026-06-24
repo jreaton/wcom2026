@@ -16,7 +16,11 @@ you'll want to change lives in plain text files — no coding needed.**
 | Travel, venue, hotels | `_pages/travel.md` |
 | Registration info & form link | `_pages/registration.md` |
 | Contact info | `_pages/contact.md` |
+| The banner photo | `assets/img/uw-tacoma.jpg` |
 | Colors / fonts / styling | `assets/css/style.css` (top of file) |
+
+For layout/design requests, see `Requests.md`. A full beginner walkthrough for
+non-technical editors is in `GUIDE-FOR-JULIE.md`.
 
 The `.yml` files have instructions in comments at the top. To add a talk or a
 person, copy an existing block and change the values — **keep the two-space

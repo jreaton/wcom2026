@@ -53,4 +53,5 @@ exclude:
   - Makefile
   - README.md
   - GUIDE-FOR-JULIE.md
+  - Requests.md
   - vendor
