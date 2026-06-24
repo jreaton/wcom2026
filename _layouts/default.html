@@ -3,15 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <title>{% if page.title and page.title != "Home" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  {% include header.html %}
-  <main class="content">
-    {{ content }}
-  </main>
-  {% include footer.html %}
+  <div class="site">
+    {% include header.html %}
+    <div class="layout">
+      {% include nav.html %}
+      <main class="content">
+        {{ content }}
+      </main>
+    </div>
+    {% include footer.html %}
+  </div>
 </body>
 </html>

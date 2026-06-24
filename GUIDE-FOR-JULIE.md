@@ -179,6 +179,7 @@ GitHub website (Part 1) or in VS Code on your computer (Part 2).
 | Travel, venue address, hotels | `_pages/travel.md` |
 | Registration text and the **sign-up form link** | `_pages/registration.md` |
 | Contact / organizer emails | `_pages/contact.md` |
+| The **banner photo** at the top | save your image as `assets/img/uw-tacoma.jpg` |
 | Colors and fonts | `assets/css/style.css` (the very top) |
 
 ### Example: add a talk to the schedule

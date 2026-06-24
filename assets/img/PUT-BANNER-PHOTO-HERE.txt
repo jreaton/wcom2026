@@ -1,0 +1,21 @@
+BANNER PHOTO
+============
+
+Save the UW Tacoma photo here, named exactly:
+
+    uw-tacoma.jpg
+
+It appears as the banner across the top of every page. Recommended size:
+roughly 1600 x 600 pixels (wide and short). A .jpg works best.
+
+To use a different filename or format, update the path in:
+    _includes/header.html   (look for "uw-tacoma.jpg")
+
+Until a photo is added, the banner shows a solid dark-purple background with
+the title on top — the site still works and looks intentional.
+
+Note on photos: use an image you have the right to publish (an official UW
+Tacoma photo, a Creative Commons image, or one you took yourself). Avoid
+random images found via web search, which are usually copyrighted.
+
+You can delete this text file once the photo is in place.
