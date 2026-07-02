@@ -13,7 +13,7 @@ plan seating and catering.
 
 👉 **[Registration form]([LINK TBD])**
 
-*(Replace `[LINK TBD]` above with your Google Form / Microsoft Form link.)*
+<!-- *(Replace `[LINK TBD]` above with your Google Form / Microsoft Form link.)* -->
 
 When registering, please tell us:
 

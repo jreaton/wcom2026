@@ -5,7 +5,7 @@ subtitle: Speakers and attendees joining us at UW Tacoma.
 permalink: /participants/
 ---
 
-_Edit the list in `_data/participants.yml` — you do not need to touch this page._
+<!-- _Edit the list in `_data/participants.yml` — you do not need to touch this page._ -->
 
 <table>
   <thead>

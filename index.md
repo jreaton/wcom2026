@@ -14,6 +14,8 @@ The meeting brings together faculty, postdocs, and students for a day of talks
 spanning optimization theory, algorithms, and applications, with ample time for
 discussion over coffee and lunch.
 
+The meeting is sponsored by the University of Washington School of Interdisciplinary Arts & Sciences and the UW Applied Mathematics Department, and TBD
+
 ## Important dates
 
 <table class="facts">

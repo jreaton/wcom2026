@@ -5,10 +5,12 @@ subtitle: Talk abstracts, in program order.
 permalink: /abstracts/
 ---
 
-_To add an abstract, copy one block below. The `{: #talk-N }` line is the anchor
+TBD
+<!-- _To add an abstract, copy one block below. The `{: #talk-N }` line is the anchor
 that the Schedule page links to — keep its id matching the `abstract_id` in
-`_data/schedule.yml`._
+`_data/schedule.yml`._ -->
 
+<!--
 <div class="abstract" markdown="1">
 ### Title of the first talk
 {: #talk-1 }
@@ -35,3 +37,5 @@ Abstract text goes here.
 </div>
 
 <p style="color:var(--muted)"><em>Remaining abstracts to be added as they are confirmed.</em></p>
+-->
+<p style="color:var(--muted)"><em>Abstracts to be added as they are confirmed.</em></p>

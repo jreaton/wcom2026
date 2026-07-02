@@ -5,8 +5,11 @@ subtitle: A single-track day of talks. Times are Pacific.
 permalink: /schedule/
 ---
 
-All talks take place in **[room TBD]**; breaks are in the **[room TBD]** adjacent
-space. _Edit the program in `_data/schedule.yml` — you do not need to touch this page._
+All talks take place in **JOY 117**; breaks are in the adjacent
+hallway and foyer. 
+
+TBD
+<!-- _Edit the program in `_data/schedule.yml` — you do not need to touch this page._ -->
 
 <table>
   <thead>

@@ -9,9 +9,9 @@ tagline: "West Coast Optimization Meeting"
 description: "West Coast Optimization Meeting, Fall 2026, hosted at the University of Washington Tacoma."
 
 # Dates / location shown on the home page and in the footer.
-event_dates: "Fall 2026 (dates TBD)"
+event_dates: "October 3, 2026"
 location: "University of Washington Tacoma"
-organizers: "Julie Eaton and Aleksandr Aravkin"
+organizers: "Julia Eaton and Aleksandr Aravkin"
 
 # When you deploy to GitHub Pages this becomes /<repo-name>.
 # Leave blank for local preview at http://localhost:4000/

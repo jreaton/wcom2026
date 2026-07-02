@@ -11,7 +11,7 @@
 #  To add a person, copy a block. Keep the two-space indentation.
 # ============================================================
 
-- name: "Julie Eaton"
+- name: "Julia Eaton"
   affiliation: "University of Washington Tacoma"
   role: "Organizer"
   url: ""
@@ -21,14 +21,14 @@
   role: "Organizer"
   url: "https://uw-amo.github.io/saravkin/"
 
-- name: "Speaker One"
-  affiliation: "University of Washington"
-  url: ""
+#- name: "Speaker One"
+#  affiliation: "University of Washington"
+#  url: ""
 
-- name: "Speaker Two"
-  affiliation: "University of British Columbia Okanagan"
-  url: ""
+#- name: "Speaker Two"
+#  affiliation: "University of British Columbia Okanagan"
+#  url: ""
 
-- name: "Speaker Three"
-  affiliation: "Simon Fraser University"
-  url: ""
+#- name: "Speaker Three"
+#  affiliation: "Simon Fraser University"
+#  url: ""
