@@ -16,7 +16,7 @@ organizers: "Julia Eaton and Aleksandr Aravkin"
 # When you deploy to GitHub Pages this becomes /<repo-name>.
 # Leave blank for local preview at http://localhost:4000/
 # When the repo is named e.g. "wcom2026", set:  baseurl: "/wcom2026"
-baseurl: ""
+baseurl: "/wcom2026"
 url: ""
 
 # ----- Navigation bar -----------------------------------------
