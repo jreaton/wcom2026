@@ -11,7 +11,7 @@ plan seating and catering.
 
 ## Register
 
-👉 **[Registration form]([LINK TBD])**
+👉 **[Registration form](https://forms.office.com/r/zvNJuBEt1Z)**
 
 <!-- *(Replace `[LINK TBD]` above with your Google Form / Microsoft Form link.)* -->
 
@@ -19,7 +19,7 @@ When registering, please tell us:
 
 - your name and affiliation;
 - whether you would like to **give a talk** (and a tentative title);
-- any **dietary restrictions** for lunch.
+- any **dietary restrictions** for food.
 
 ## Deadlines
 
