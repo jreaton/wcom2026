@@ -19,8 +19,7 @@ The meeting is sponsored by the University of Washington Tacoma School of Interd
 ## Important dates
 
 <table class="facts">
-  <tr><td>Registration opens</td><td>(tentative) July 31, 2026</td></tr>
-  <tr><td>Abstract submission deadline</td><td>September 15, 2026</td></tr>
+  <tr><td>Registration opens</td><td>July 20, 2026</td></tr>
   <tr><td>Meeting</td><td>{{ site.event_dates }}</td></tr>
 </table>
 

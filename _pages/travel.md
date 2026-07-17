@@ -24,7 +24,7 @@ The meeting is held at the **University of Washington Tacoma**.
 
 A few hotels near campus *(to be confirmed; rates and any room block are TBD)*:
 
-- **Courtyard by Marriot Downtown**, 1515 Commerce Street, Tacoma, WA 98402, 0.2 mile walk to conference builing, price/block rate & code TBD 
-- **Hotel Murano, 1320 Broadway**, Tacoma, WA 98402, 0.4 mile walk to conference building, price/block rate TBD
+- **Courtyard by Marriot Downtown**, 1515 Commerce Street, Tacoma, WA 98402, 0.2 mile walk to conference builing, price/block rate & code TBD. Register before September 11, 2026 to get the group rate ($136/night, $19/night for parking), link TBD
+- **Hotel Murano, 1320 Broadway**, Tacoma, WA 98402, 0.4 mile walk to conference building, price/block rate and link TBD
 
 <!--_Replace the placeholders above with confirmed details._-->

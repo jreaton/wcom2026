@@ -5,28 +5,13 @@ subtitle: Attendance is free, but please register so we can plan catering.
 permalink: /registration/
 ---
 
-There is **no registration fee**, but we ask everyone planning to attend —
-and especially anyone who would like to give a talk — to register so we can
-plan seating and catering.
+There is **no registration fee**, but we ask everyone planning to attend to register so by **September 15** we can plan catering.
 
 ## Register
 
-👉 **[Registration form](https://forms.office.com/r/zvNJuBEt1Z)**
+**[Registration form](https://forms.office.com/r/zvNJuBEt1Z)**
 
 <!-- *(Replace `[LINK TBD]` above with your Google Form / Microsoft Form link.)* -->
 
-When registering, please tell us:
-
-- your name and affiliation;
-- whether you would like to **give a talk** (and a tentative title);
-- any **dietary restrictions** for food.
-
-## Deadlines
-
-| | |
-|---|---|
-| Registration opens | *TBD* |
-| Talk / abstract deadline | *TBD* |
-| Registration closes | *TBD* |
 
 Questions? See the [Contact](../contact/) page.
