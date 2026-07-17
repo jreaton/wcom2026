@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participants
-subtitle: Speakers and attendees joining us at UW Tacoma.
+subtitle:  
 permalink: /participants/
 ---
 
