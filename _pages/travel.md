@@ -26,9 +26,10 @@ There are several hotels near campus. Hotels for which we are obtaining block ra
 
 - **Courtyard by Marriot Downtown**, 1515 Commerce Street, Tacoma, WA 98402
 <br>0.2 mile walk to conference builing
-<br> Register before September 11, 2026 to get the group rate ($136/night, $19/night for parking), block rate link TBD
+<br> Register before September 11, 2026 to get the group rate ($136/night, $19/night for parking)
+<br> [Book your group rate for UW Tacoma West Coast Optimization Meeting](https://www.marriott.com/event-reservations/reservation-link.mi?id=1784570794795&key=GRP&app=resvlink&_branch_match_id=1607835003683868433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi0uy0wtN7IHytiCODmZedlqmSm2huYWJqbmBuaWJuaWpmrZqZW27kEBanVFqWmpQO156fFJRfnlxalFtm6ZQLH8CgDXSBBZYgAAAA%3D%3D)
 - **Hotel Murano, 1320 Broadway**, Tacoma, WA 98402
 <br> 0.4 mile walk to conference building
-<br> price/block rate and link TBD
+<br> Link with group rate 
 
 <!--_Replace the placeholders above with confirmed details._-->

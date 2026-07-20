@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Contact
-subtitle: Get in touch with the organizers.
+subtitle:  
 permalink: /contact/
 ---
 
 WCOM Fall 2026 is organized by **{{ site.organizers }}**.
 
-## Organizers
 
 - **Julia Eaton** — University of Washington Tacoma — *[jreaton@uw.edu]*
 - **Aleksandr Aravkin** — University of Washington — *[saravkin@uw.edu]*
