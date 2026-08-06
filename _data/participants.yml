@@ -21,14 +21,18 @@
   role: "Organizer"
   url: "https://uw-amo.github.io/saravkin/"
 
-#- name: "Speaker One"
-#  affiliation: "University of Washington"
-#  url: ""
+- name: "Milagros Loreto"
+  affiliation: "University of Washington Bothell"
+  role: "Speaker"
+  url: "https://www.uwb.edu/faculty/milagros-loreto/"
 
-#- name: "Speaker Two"
-#  affiliation: "University of British Columbia Okanagan"
-#  url: ""
+- name: "Zhaosong Lu"
+  affiliation: "University of Minnesota"
+  role: "Speaker"
+  url: "https://zhaosong-lu.github.io/"
 
-#- name: "Speaker Three"
-#  affiliation: "Simon Fraser University"
-#  url: ""
+- name: "Thomas Humphries"
+  affiliation: "University of Washington Bothell"
+  role: "Speaker"
+  url: "https://www.uwb.edu/faculty/thomas-humphries/"
+

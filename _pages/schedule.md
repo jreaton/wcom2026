@@ -39,4 +39,4 @@ TBD
   </tbody>
 </table>
 
-<p style="color:var(--muted)"><em>Schedule is provisional and subject to change.</em></p>
+<p style="color:var(--muted)"><em>In progress! <!--Schedule is provisional and subject to change.--></em></p>
