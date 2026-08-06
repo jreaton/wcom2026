@@ -5,7 +5,7 @@
 #  Fields:
 #    name:        required
 #    affiliation: their institution
-#    role:        (optional) e.g. "Organizer", "Invited speaker"
+#    role:        (optional) e.g. "Organizer", "Speaker"
 #    url:         (optional) personal/department webpage
 #
 #  To add a person, copy a block. Keep the two-space indentation.
@@ -20,6 +20,11 @@
   affiliation: "University of Washington"
   role: "Organizer"
   url: "https://uw-amo.github.io/saravkin/"
+
+- name: "Test User"
+  affiliation: "Test University"
+  role: "Speaker"
+  #url: ""
 
 - name: "Milagros Loreto"
   affiliation: "University of Washington Bothell"
