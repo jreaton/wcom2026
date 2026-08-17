@@ -12,7 +12,7 @@
 # ============================================================
 
 - name: "Julia Eaton"
-  affiliation: "University of Washington Tacoma"
+  affiliation: "University of Washington, Tacoma"
   role: "Organizer"
   url: "https://faculty.washington.edu/jreaton/"
 
@@ -21,10 +21,15 @@
   role: "Organizer"
   url: "https://uw-amo.github.io/saravkin/"
 
-- name: "Test User"
-  affiliation: "Test University"
+- name: "Shan Liu"
+  affiliation: "University of Washington"
   role: "Speaker"
-  #url: ""
+  url: "https://ise.washington.edu/facultyfinder/shan-liu"
+
+- name: "Gian-Gabriel Garcia
+  affiliation: "University of Washington"
+  role: "Speaker"
+  url: "https://ise.washington.edu/facultyfinder/gian-gabriel-palaci-garcia"
 
 - name: "Milagros Loreto"
   affiliation: "University of Washington Bothell"
@@ -41,3 +46,17 @@
   role: "Speaker"
   url: "https://www.uwb.edu/faculty/thomas-humphries/"
 
+- name: "Michael Friedlander"
+  affiliation: "University of British Columbia"
+  role: "Speaker"
+  url: "https://friedlander.io/"
+
+- name: "Juhua Hu"
+  affiliation: "University of Washington Tacoma"
+  role: "Speaker"
+  url: "http://faculty.washington.edu/juhuah/"
+
+- name: "Vasileios Charisopoulos"
+  affiliation: "University of Washington"
+  role: "Speaker"
+  url: "https://people.ece.uw.edu/vasilis/index.html"
