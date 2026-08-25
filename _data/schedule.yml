@@ -19,12 +19,12 @@
   type: admin
   title: "Opening remarks"
 
-- time: "09:00"
-  type: talk
-  speaker: "TBD"
-  affiliation: #"University of Washington"
-  title: #"Title of the first talk"
-  abstract_id: #"talk-1"
+#- time: "09:00"
+#  type: talk
+#  speaker: "TBD"
+#  affiliation: #"University of Washington"
+#  title: #"Title of the first talk"
+#  abstract_id: #"talk-1"
 
 #- time: "09:30"
 #  type: talk
@@ -34,15 +34,15 @@
 #  abstract_id: "talk-2"
 
 #- time: "10:00"
-#  type: break
-#  title: "Coffee break"
-
-#- time: "10:30"
 #  type: talk
 #  speaker: "Speaker Three"
 #  affiliation: "Simon Fraser University"
 #  title: "Title of the third talk"
 #  abstract_id: "talk-3"
+
+#- time: "10:30"
+#  type: break
+#  title: "Coffee break"
 
 #- time: "11:00"
 #  type: talk
@@ -62,19 +62,27 @@
   type: meal
   title: "Lunch"
 
-#- time: "13:30"
+#- time: "13:00"
 #  type: talk
 #  speaker: "Speaker Six"
 #  affiliation: "University of Washington Tacoma"
 #  title: "Title of the sixth talk"
 #  abstract_id: "talk-6"
 
-#- time: "14:00"
+#- time: "13:30"
 #  type: talk
 #  speaker: "Speaker Seven"
 #  affiliation: "University of Washington"
 #  title: "Title of the seventh talk"
 #  abstract_id: "talk-7"
+
+#- time: "14:00"
+#  type: talk
+#  speaker: "Speaker Eight"
+#  affiliation: "University of Washington"
+#  title: "Title of the eighth talk"
+#  abstract_id: "talk-8"
+
 
 #- time: "14:30"
 #  type: break
@@ -82,18 +90,25 @@
 
 #- time: "15:00"
 #  type: talk
-#  speaker: "Speaker Eight"
-#  affiliation: "Pacific Northwest National Laboratory"
-#  title: "Title of the eighth talk"
-#  abstract_id: "talk-8"
-
-#- time: "15:30"
-#  type: talk
 #  speaker: "Speaker Nine"
-#  affiliation: "Oregon State University"
+#  affiliation: "Pacific Northwest National Laboratory"
 #  title: "Title of the ninth talk"
 #  abstract_id: "talk-9"
 
-- time: "16:00"
+#- time: "15:30"
+#  type: talk
+#  speaker: "Speaker Ten"
+#  affiliation: "Oregon State University"
+#  title: "Title of the tenth talk"
+#  abstract_id: "talk-10"
+
+#- time: "16:00"
+#  type: talk
+#  speaker: "Speaker Eleven"
+#  affiliation: " University of Washington"
+#  title: "Title of the Eleven talk"
+#  abstract_id: "talk-11"
+
+- time: "16:30"
   type: admin
   title: "Closing remarks"
