@@ -7,7 +7,7 @@ title: Home
 
 The **West Coast Optimization Meeting (WCOM)** is an one-day, single-track
 gathering of researchers in optimization and its applications across the West
-Coast. WCOM Fall 2026 is hosted at the {{ site.location }* and organized by
+Coast. WCOM Fall 2026 is hosted at the {{ site.location }} and organized by
 {{ site.organizers }}.
 
 The meeting brings together faculty, postdocs, and students for a day of talks
