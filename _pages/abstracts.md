@@ -5,7 +5,6 @@ subtitle: Talk abstracts, program order is TBD
 permalink: /abstracts/
 ---
 
-TBD
 <!-- _To add an abstract, copy one block below. The `{: #talk-N }` line is the anchor
 that the Schedule page links to — keep its id matching the `abstract_id` in
 `_data/schedule.yml`._ -->
