@@ -28,6 +28,7 @@ Joint work with Jingxing (Jesse) Wang and Maryam Fazel.
 Abstract TBD
 </div>
 
+
 <div class="abstract" markdown="1">
 ### Superiorization-Based Computed Tomography Reconstruction using Neural Networks
 {: #talk-3 }
@@ -43,75 +44,44 @@ Abstract TBD
 Abstract TBD
 </div>
 
-
-<!--
 <div class="abstract" markdown="1">
-### Title of the third talk
+### Geospatial Healthcare Resource Allocation Problems with Optimization
 {: #talk-5 }
-<p class="by">Speaker Three — Simon Fraser University</p>
-
-Abstract text goes here.
+<p class="by">Shan Liu - University of Washington </p>
+Abstract TBD
 </div>
--->
-
-<!--
+ 
 <div class="abstract" markdown="1">
-### Title of the third talk
+### An Optimize-then-Classify Framework for Designing Population-level Treatment Guidelines
 {: #talk-6 }
-<p class="by">Speaker Three — Simon Fraser University</p>
-
-Abstract text goes here.
+<p class="by">Gian-Gabriel Garcia - University of Washington</p>
+Abstract TBD
 </div>
--->
-
-<!--
+ 
 <div class="abstract" markdown="1">
-### Title of the third talk
+### TBD
 {: #talk-7 }
-<p class="by">Speaker Three — Simon Fraser University</p>
-
-Abstract text goes here.
+<p class="by">Michael Friedlander - University of British Columbia </p>
+Abstract TBD
 </div>
 -->
 
 
 <!--
 <div class="abstract" markdown="1">
-### Title of the third talk
+### TBD
 {: #talk-8 }
-<p class="by">Speaker Three — Simon Fraser University</p>
-
-Abstract text goes here.
+<p class="by">Yves Lucet - University of British Colubmia Okanagan</p>
+Abstract TBD
 </div>
 -->
 
 <!--
 <div class="abstract" markdown="1">
-### Title of the third talk
+### TBD 
 {: #talk-9 }
-<p class="by">Speaker Three — Simon Fraser University</p>
-
-Abstract text goes here.
-</div>
--->
-
-<!--
-<div class="abstract" markdown="1">
-### Title of the third talk
-{: #talk-10 }
-<p class="by">Speaker Three — Simon Fraser University</p>
-
-Abstract text goes here.
-</div>
--->
-
-<!--
-<div class="abstract" markdown="1">
-### Title of the third talk
-{: #talk-11 }
-<p class="by">Speaker Three — Simon Fraser University</p>
-
-Abstract text goes here.
+<p class="by">Cooper - University of Washington</p>
+Abstract TBD
 </div>
 -->
 

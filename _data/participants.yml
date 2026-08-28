@@ -21,42 +21,83 @@
   role: "Organizer"
   url: "https://uw-amo.github.io/saravkin/"
 
+#1
 - name: "Shan Liu"
   affiliation: "University of Washington"
   role: "Speaker"
   url: "https://ise.washington.edu/facultyfinder/shan-liu"
 
+#2
 - name: "Gian-Gabriel Garcia"
   affiliation: "University of Washington"
   role: "Speaker"
   url: "https://ise.washington.edu/facultyfinder/gian-gabriel-palaci-garcia"
 
+#3
 - name: "Milagros Loreto"
   affiliation: "University of Washington Bothell"
   role: "Speaker"
   url: "https://www.uwb.edu/faculty/milagros-loreto/"
 
+#4
 - name: "Zhaosong Lu"
   affiliation: "University of Minnesota"
   role: "Speaker"
   url: "https://zhaosong-lu.github.io/"
 
+#5
 - name: "Thomas Humphries"
   affiliation: "University of Washington Bothell"
   role: "Speaker"
   url: "https://www.uwb.edu/faculty/thomas-humphries/"
 
+#6
 - name: "Michael Friedlander"
   affiliation: "University of British Columbia"
   role: "Speaker"
   url: "https://friedlander.io/"
 
-- name: "Juhua Hu"
-  affiliation: "University of Washington Tacoma"
-  role: "Speaker"
-  url: "http://faculty.washington.edu/juhuah/"
-
+#7
 - name: "Vasileios Charisopoulos"
   affiliation: "University of Washington"
   role: "Speaker"
   url: "https://people.ece.uw.edu/vasilis/index.html"
+
+#8
+#- name: "Yves Lucet"
+#  affiliation: "University of British Columbia Okanagan"
+#  role: "Speaker"
+#  url: "https://cmps.ok.ubc.ca/about/contact/yves-lucet/"
+
+#9
+#- name: "Cooper XXX"
+#  affiliation: "University of Washington "
+#  role: "Speaker"
+#  url: " "
+
+#10 
+#- name: "Aleksandr Aravkin"
+#  affiliation: "University of Washington "
+#  role: "Speaker"
+#  url: " "
+
+- name: "Konstantin Golobokov"
+  affiliation: "University of Washington"
+  role: "Participant"
+#  url: "http://faculty.washington.edu/juhuah/"
+
+- name: "Pengcheng Xie"
+  affiliation: "Lawrence Berkeley National Laboratory & University of California"
+  role: "Participant"
+
+- name: "Warren Hare"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Participant"
+
+- name: "Amy Wiebe"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Participant"
+
+- name: "Amaan Khan"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Participant"
