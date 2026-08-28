@@ -25,7 +25,10 @@ Joint work with Jingxing (Jesse) Wang and Maryam Fazel.
 ### Barzilai-Borwein Steps (BB-steps) for Solving Nonsmooth Optimization Problems.
 {: #talk-2 }
 <p class="by">Milagros Loreto - University of Washington Bothell</p>
+<!--
 Abstract TBD
+-->
+
 </div>
 
 
@@ -33,38 +36,47 @@ Abstract TBD
 ### Superiorization-Based Computed Tomography Reconstruction using Neural Networks
 {: #talk-3 }
 <p class="by">Thomas Humphries - University of Washingon Bothell</p>
+<!--
 Abstract TBD
+-->
 </div>
-
 
 <div class="abstract" markdown="1">
 ###  First-order methods for nonconvex–nonconcave minimax optimization under a local Kurdyka–Łojasiewicz condition
 {: #talk-4 }
 <p class="by">Zhaosong Lu - University of Minnesota</p>
+<!--
 Abstract TBD
+-->
 </div>
 
 <div class="abstract" markdown="1">
 ### Geospatial Healthcare Resource Allocation Problems with Optimization
 {: #talk-5 }
 <p class="by">Shan Liu - University of Washington </p>
+<!--
 Abstract TBD
+-->
 </div>
  
 <div class="abstract" markdown="1">
 ### An Optimize-then-Classify Framework for Designing Population-level Treatment Guidelines
 {: #talk-6 }
 <p class="by">Gian-Gabriel Garcia - University of Washington</p>
+<!--
 Abstract TBD
+-->
 </div>
  
 <div class="abstract" markdown="1">
 ### TBD
 {: #talk-7 }
 <p class="by">Michael Friedlander - University of British Columbia </p>
+<!--
 Abstract TBD
-</div>
 -->
+</div>
+ 
 
 
 <!--
