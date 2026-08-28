@@ -64,16 +64,16 @@
   url: "https://people.ece.uw.edu/vasilis/index.html"
 
 #8
-#- name: "Yves Lucet"
-#  affiliation: "University of British Columbia Okanagan"
-#  role: "Speaker"
-#  url: "https://cmps.ok.ubc.ca/about/contact/yves-lucet/"
+- name: "Yves Lucet"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Speaker"
+  url: "https://cmps.ok.ubc.ca/about/contact/yves-lucet/"
 
 #9
-#- name: "Cooper XXX"
-#  affiliation: "University of Washington "
-#  role: "Speaker"
-#  url: " "
+- name: "Cooper Simpson"
+  affiliation: "University of Washington "
+  role: "Speaker"
+  url: "https://amath.washington.edu/people/cooper-simpson"
 
 #10 
 #- name: "Aleksandr Aravkin"

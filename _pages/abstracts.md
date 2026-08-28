@@ -78,25 +78,24 @@ Abstract TBD
 </div>
  
 
-
-<!--
 <div class="abstract" markdown="1">
 ### TBD
 {: #talk-8 }
 <p class="by">Yves Lucet - University of British Colubmia Okanagan</p>
-Abstract TBD
-</div>
--->
-
 <!--
+Abstract TBD
+-->
+</div>
+
 <div class="abstract" markdown="1">
 ### TBD 
 {: #talk-9 }
-<p class="by">Cooper - University of Washington</p>
+<p class="by">Cooper Simpson - University of Washington</p>
+<!--
 Abstract TBD
-</div>
 -->
-
+</div>
+ 
 
 
 <p style="color:var(--muted)"><em>Abstracts to be added as they are confirmed.</em></p>
