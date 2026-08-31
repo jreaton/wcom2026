@@ -70,16 +70,16 @@
   url: "https://cmps.ok.ubc.ca/about/contact/yves-lucet/"
 
 #9
-- name: "Cooper Simpson"
-  affiliation: "University of Washington "
-  role: "Speaker"
-  url: "https://amath.washington.edu/people/cooper-simpson"
+#- name: "Cooper Simpson"
+#  affiliation: "University of Washington "
+#  role: "Speaker"
+#  url: "https://amath.washington.edu/people/cooper-simpson"
 
-#10 
+#9
 #- name: "Aleksandr Aravkin"
 #  affiliation: "University of Washington "
 #  role: "Speaker"
-#  url: " "
+#url: ""
 
 - name: "Konstantin Golobokov"
   affiliation: "University of Washington"
