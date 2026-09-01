@@ -69,18 +69,6 @@
   role: "Speaker"
   url: "https://cmps.ok.ubc.ca/about/contact/yves-lucet/"
 
-#9
-#- name: "Cooper Simpson"
-#  affiliation: "University of Washington "
-#  role: "Speaker"
-#  url: "https://amath.washington.edu/people/cooper-simpson"
-
-#9
-#- name: "Aleksandr Aravkin"
-#  affiliation: "University of Washington "
-#  role: "Speaker"
-#url: ""
-
 - name: "Konstantin Golobokov"
   affiliation: "University of Washington"
   role: "Speaker"
@@ -89,14 +77,18 @@
 - name: "Pengcheng Xie"
   affiliation: "Lawrence Berkeley National Laboratory & University of California"
   role: "Participant"
+  url: "https://pxie98.github.io/"
 
 - name: "Warren Hare"
   affiliation: "University of British Columbia Okanagan"
   role: "Participant"
+  url: "https://cmps.ok.ubc.ca/about/contact/warren-hare/"
 
 - name: "Amy Wiebe"
   affiliation: "University of British Columbia Okanagan"
   role: "Participant"
+  url: "https://cmps.ok.ubc.ca/about/contact/amy-wiebe/"
+
 
 - name: "Amaan Khan"
   affiliation: "University of British Columbia Okanagan"
