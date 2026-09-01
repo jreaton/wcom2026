@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Schedule
-subtitle: A single-track day of talks. Times are Pacific.
 permalink: /schedule/
 ---
 
-All talks take place in **JOY 117**; breaks are in the adjacent
-hallway and foyer. 
+A single-track day of talks. Times are Pacific. All talks take place in **JOY 117**; breaks are in the adjacent hallway and foyer. 
 
 <!-- _Edit the program in `_data/schedule.yml` — you do not need to touch this page._ -->
 

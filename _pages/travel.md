@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Travel & Venue
-subtitle: Getting to UW Tacoma and where to stay.
 permalink: /travel/
 ---
 
