@@ -50,12 +50,16 @@ Abstract TBD
 </div>
 
 <div class="abstract" markdown="1">
-### TBD
+### Exact Conjugation and Biconjugation of Nonconvex Piecewise Linear-Quadratic Functions
 {: #talk-5 }
 <p class="by">Yves Lucet - University of British Colubmia Okanagan</p>
-<!--
-Abstract TBD
--->
+Piecewise linear-quadratic (PLQ) functions are piecewise functions defined on a polyhedral subdivision on each of which the restriction of the function is quadratic. They are closed under Fenchel conjugation when convex, and expressive enough to represent most functions. This talk reports on an effort to push exact computation of the Legendre-Fenchel conjugate, and of biconjugation -- the closed convex envelope co f = f** -- past the convex case, to arbitrary nonconvex PLQ (and more general piecewise) functions in one, two, and higher dimensions.
+
+We first focus on bivariate PLQ functions and aggregate several codes into an exact computation package finding that conjugates of nonconvex bivariate PLQ functions are quadratic on conic subdivisions while biconjugates are semi-algebraic but can still be represented exactly using rational numbers. Along the way, we assembled a database of functions with their conjugates and biconjugate that are of independent interest.
+
+We then provide general symbolic computation by first porting Borwein & Hamilton SCAT package to compute conjugate of (multi-dimensional) convex functions to Python. Then we generalized it to a SNAT package that removes the convexity assumption.
+
+We provide illustrations and examples of some unexpected results.
 </div>
 
 
