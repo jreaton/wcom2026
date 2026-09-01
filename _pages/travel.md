@@ -22,7 +22,7 @@ The meeting is held at the **University of Washington Tacoma**.
 
 ## Where to stay
 
-There are several hotels near campus. Hotels for which we are obtaining block rates are below. **Book before September 11, 2026 to obtain the group rate.**
+There are several hotels near campus. Hotels for which we are obtaining block rates are below. <br>**Book before September 11, 2026 to obtain the group rate.**
 
 - **Courtyard by Marriot Downtown**, 1515 Commerce Street, Tacoma, WA 98402
 <br>0.2 mile walk to conference builing
