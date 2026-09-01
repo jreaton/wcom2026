@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abstracts
-subtitle: Talk abstracts, program order is TBD
+# subtitle: Talk abstracts
 permalink: /abstracts/
 ---
 
@@ -105,6 +105,3 @@ Abstract TBD
 </div>
  
 
-
-
-<p style="color:var(--muted)"><em>Abstracts to be added as they are confirmed.</em></p>

@@ -8,7 +8,6 @@ permalink: /schedule/
 All talks take place in **JOY 117**; breaks are in the adjacent
 hallway and foyer. 
 
-TBD
 <!-- _Edit the program in `_data/schedule.yml` — you do not need to touch this page._ -->
 
 <table>
@@ -39,4 +38,3 @@ TBD
   </tbody>
 </table>
 
-<p style="color:var(--muted)"><em>In progress! <!--Schedule is provisional and subject to change.--></em></p>
