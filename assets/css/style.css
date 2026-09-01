@@ -153,6 +153,23 @@ td { padding: .6rem .7rem; border-bottom: 1px solid var(--line); vertical-align:
   font-size: .85rem;
 }
 .site-footer p { margin: .15rem 0; }
+.support-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.25rem 1.5rem;
+  margin-top: 1rem;
+}
+.support-logo {
+  display: block;
+  max-height: 72px;
+  width: auto;
+  object-fit: contain;
+}
+.support-logo--pims { max-width: 220px; }
+.support-logo--amath { max-width: 170px; }
+.support-logo--tacoma { max-width: 280px; }
 
 /* ---------- Responsive: stack nav on top for narrow screens ---------- */
 @media (max-width: 720px) {
