@@ -16,11 +16,9 @@ discussion over coffee and lunch. Please plan to stay for the day.
 
 The meeting is sponsored by the University of Washington Tacoma School of Interdisciplinary Arts & Sciences, University of Washington Applied Mathematics Department, and the Pacific Institute for Mathematical Sciences.
 
-## Important dates
-
 <table class="facts">
-  <tr><td>Registration opens</td><td>July 20, 2026</td></tr>
-  <tr><td>Meeting</td><td>{{ site.event_dates }}</td></tr>
+  <tr><td>*Registration closes*</td><td>Septe 15, 2026</td></tr>
+  <tr><td>*Meeting*</td><td>{{ site.event_dates }}</td></tr>
 </table>
 
 See the [schedule]({{ '/schedule/' | relative_url }}), the list of
