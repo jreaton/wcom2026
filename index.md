@@ -21,7 +21,7 @@ The meeting is sponsored by the University of Washington Tacoma School of Interd
   <tr><td><b>Meeting date</b></td><td>{{ site.event_dates }}</td></tr>
 </table>
 
-See the [schedule]({{ '/schedule/' | relative_url }}), the list of
-[participants]({{ '/participants/' | relative_url }}), or
-[register]({{ '/registration/' | relative_url }}) to attend.
+See the [<b>schedule</b>]({{ '/schedule/' | relative_url }}), the list of
+[<b>participants</b>]({{ '/participants/' | relative_url }}), or
+[<b>register</b>]({{ '/registration/' | relative_url }}) to attend.
 
