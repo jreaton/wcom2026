@@ -18,7 +18,7 @@
 
 - name: "Aleksandr Aravkin"
   affiliation: "University of Washington"
-  role: "Organizer"
+  role: "Organizer, Speaker"
   url: "https://uw-amo.github.io/saravkin/"
 
 #1
@@ -83,8 +83,8 @@
 
 - name: "Konstantin Golobokov"
   affiliation: "University of Washington"
-  role: "Participant"
-#  url: "http://faculty.washington.edu/juhuah/"
+  role: "Speaker"
+  url: "https://kogolobo.github.io/"
 
 - name: "Pengcheng Xie"
   affiliation: "Lawrence Berkeley National Laboratory & University of California"
