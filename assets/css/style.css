@@ -146,7 +146,7 @@ td { padding: .6rem .7rem; border-bottom: 1px solid var(--line); vertical-align:
 
 /* ---------- Footer ---------- */
 .site-footer {
-  margin-top: 1rem;
+  margin-top: 0;
   padding-top: 1.2rem;
   border-top: 1px solid var(--line);
   color: var(--muted);

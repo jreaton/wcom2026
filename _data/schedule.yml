@@ -62,21 +62,21 @@
   type: meal
   title: "Lunch"
 
-- time: "13:30"
+- time: "13:00"
   type: talk
   speaker: "Shan Liu"
   affiliation: "University of Washington"
   title: "Geospatial Healthcare Resource Allocation Problems with Optimization"
   abstract_id: "talk-6"
 
-- time: "14:00"
+- time: "13:30"
   type: talk
   speaker: "Thomas Humphries"
   affiliation: "University of Washington Bothell"
   title: "Superiorization-Based Computed Tomography Reconstruction using Neural Networks"
   abstract_id: "talk-7"
 
-- time: "14:30"
+- time: "14:00"
   type: talk
   speaker: "Aleksandr Aravkin"
   affiliation: "University of Washington"
@@ -84,24 +84,24 @@
   abstract_id: "talk-8"
 
 
-- time: "15:00"
+- time: "14:30"
   type: break
   title: "Coffee break"
 
-- time: "15:30"
+- time: "15:00"
   type: talk
   speaker: "Gian-Gabriel Garcia"
   affiliation: "University of Washington"
   title: "An Optimize-then-Classify Framework for Designing Population-level Treatment Guidelines"
   abstract_id: "talk-9"
 
-- time: "16:00"
+- time: "15:30"
   type: talk
   speaker: "Michael Friedlander"
   affiliation: "University of British Columbia "
   title: "TBD"
   abstract_id: "talk-10"
 
-- time: "16:25"
+- time: "15:55"
   type: admin
   title: "Closing remarks"
