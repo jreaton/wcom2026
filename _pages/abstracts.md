@@ -81,27 +81,34 @@ Abstract TBD
 -->
 </div>
 
+<div class="abstract" markdown="1">
+### TBD
+{: #talk-8 }
+<p class="by">Jeremy Chiu - Simon Fraser University </p>
+<!--
+Abstract TBD
+-->
+</div>
+
 
 <div class="abstract" markdown="1">
 ### Generalized Raking: Formulation, Extensions, and Software 
-{: #talk-8 }
+{: #talk-9 }
 <p class="by">Aleksandr Aravkin  - University of Washington</p>
 Raking is a critical tool for adjusting inputs to match known totals—arising naturally in calibrating survey weights to census data and reconciling estimates in global health modeling. We review the underlying optimization problem, casting raking as minimizing entropic distance subject to linear constraints, and show a new raking package that captures many high-interest modern extensions, such as uncertainty-weighted raking. We illustrate using simple synthetics and show how the package was used to solve  a complex high-dimensional raking problem that reconciles granular mortality estimates (by race, county and cause) with state all-race mortality estimates from the Global Burden of Disease study. 
 </div>
 
 <div class="abstract" markdown="1">
 ### An Optimize-then-Classify Framework for Designing Population-level Treatment Guidelines
-{: #talk-9 }
+{: #talk-10 }
 <p class="by">Gian-Gabriel Garcia - University of Washington</p>
-<!--
-Abstract TBD
--->
+Evidence-based guidelines play an important role in how chronic diseases are managed, as these recommendations are widely disseminated and widely implemented. However, these guidelines are often one-size-fits-most, failing to consider patient-to-patient differences. Personalized medicine has shown significant potential to improve health outcomes over guidelines. However, the implementation of personalized medicine may be challenging to implement or result in unwanted practice variation. To optimally balance between personalized medicine and clinical guidelines, we propose an optimize-then-classify framework to design treatment guidelines that are stratified across $G$ groups for a population of patients wherein each person is modeled according to their own contextual Markov Decision Process. We characterize the structural properties of this framework and propose exact and heuristic methods to solve the problem. Using a case study on hypertension treatment, we demonstrate that our guidelines – with only a small number of stratifications – can perform almost as well as fully personalized treatment policies while greatly outperforming several benchmarks.
 </div>
 
  
 <div class="abstract" markdown="1">
 ### TBD
-{: #talk-10 }
+{: #talk-11 }
 <p class="by">Michael Friedlander - University of British Columbia </p>
 <!--
 Abstract TBD

@@ -78,30 +78,36 @@
 
 - time: "14:00"
   type: talk
-  speaker: "Aleksandr Aravkin"
-  affiliation: "University of Washington"
-  title: "Generalized Raking: Formulation, Extensions, and Software"
+  speaker: "Jeremy Chiu"
+  affiliation: "Simon Fraser University"
+  title: "TBD"
   abstract_id: "talk-8"
-
 
 - time: "14:30"
   type: break
   title: "Coffee break"
 
-- time: "15:00"
+- time: "13:00"
+  type: talk
+  speaker: "Aleksandr Aravkin"
+  affiliation: "University of Washington"
+  title: "Generalized Raking: Formulation, Extensions, and Software"
+  abstract_id: "talk-9"
+
+- time: "15:30"
   type: talk
   speaker: "Gian-Gabriel Garcia"
   affiliation: "University of Washington"
   title: "An Optimize-then-Classify Framework for Designing Population-level Treatment Guidelines"
-  abstract_id: "talk-9"
+  abstract_id: "talk-10"
 
-- time: "15:30"
+- time: "14:00"
   type: talk
   speaker: "Michael Friedlander"
   affiliation: "University of British Columbia "
   title: "TBD"
   abstract_id: "talk-10"
 
-- time: "15:55"
+- time: "14:25"
   type: admin
   title: "Closing remarks"
