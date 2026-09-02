@@ -76,9 +76,9 @@ Many healthcare resource allocation problems can be framed as geospatial network
 ### Superiorization-Based Computed Tomography Reconstruction using Neural Networks
 {: #talk-7 }
 <p class="by">Thomas Humphries - University of Washingon Bothell</p>
-<!--
-Abstract TBD
--->
+Computed Tomography (CT) image reconstruction is typically formulated as approximately solving a large linear system of equations, which is equivalent to a convex feasibility problem. In the presence of noisy or incomplete data, standard iterative methods such as the simultaneous algebraic reconstruction technique (SART) fail to give satisfactory results, necessitating the use of prior information within the reconstruction algorithm. One heuristic approach for incorporating such information is the superiorization methodology (SM), in which iterates are perturbed between each feasibility-seeking step, typically in a descent direction of some penalty function. Under reasonable assumptions about the basic algorithm, the "superiorized" version will eventually converge to a solution which meets the same level of constraints compatibility as the basic algorithm.
+
+Recently there has been significant interest in the use of techniques from deep learning to improve the quality of CT images reconstructed from noisy or incomplete data. In this work we investigate two approaches to incorporate neural networks within the SM. The first is a plug-and-play approach, in which the network is trained separately from the iterative algorithm, and then applied in between feasibility-seeking iterations to introduce perturbations, which are forced to gradually decrease in size to ensure convergence. The second approaches uses the idea of algorithm unrolling to train the basic algorithm with neural network-induced perturbations together as a single network, by fixing a total number of iterations. The output is subsequently used to initialize the basic algorithm for a small number of iterations, to ensure a desired level of constraints compatibility. Our numerical experiments indicate that while both methods involve roughly the same number of network parameters and achieve the same level of constraints compatibility, the unrolling approach provides significantly better image quality.
 </div>
 
 <div class="abstract" markdown="1">
