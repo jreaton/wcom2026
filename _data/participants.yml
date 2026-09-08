@@ -11,39 +11,141 @@
 #  To add a person, copy a block. Keep the two-space indentation.
 # ============================================================
 
+#1
 - name: "Julia Eaton"
   affiliation: "University of Washington, Tacoma"
   role: "Organizer"
   url: "https://faculty.washington.edu/jreaton/"
 
-- name: "Aleksandr Aravkin"
-  affiliation: "University of Washington"
-  role: "Organizer, Speaker"
-  url: "https://uw-amo.github.io/saravkin/"
-
-#1
-- name: "Shan Liu"
+#2
+- name: "Konstantin Golobokov"
   affiliation: "University of Washington"
   role: "Speaker"
-  url: "https://ise.washington.edu/facultyfinder/shan-liu"
+  url: "https://kogolobo.github.io/"
 
-#2
+#3
 - name: "Gian-Gabriel Garcia"
   affiliation: "University of Washington"
   role: "Speaker"
   url: "https://ise.washington.edu/facultyfinder/gian-gabriel-palaci-garcia"
 
-#3
+#4, registered thrice!!
+- name: "Yves Lucet"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Speaker"
+  url: "https://cmps.ok.ubc.ca/about/contact/yves-lucet/"
+
+#5
+- name: "Vasileios Charisopoulos"
+  affiliation: "University of Washington"
+  role: "Speaker"
+  url: "https://people.ece.uw.edu/vasilis/index.html"
+
+#6
+- name: "Pengcheng Xie"
+  affiliation: "Lawrence Berkeley National Laboratory & University of California"
+  role: "Participant"
+  url: "https://pxie98.github.io/"
+
+#7
+- name: "Zhaosong Lu"
+  affiliation: "University of Minnesota"
+  role: "Speaker"
+  url: "https://zhaosong-lu.github.io/"
+
+#8
 - name: "Milagros Loreto"
   affiliation: "University of Washington Bothell"
   role: "Speaker"
   url: "https://www.uwb.edu/faculty/milagros-loreto/"
 
-#4
-- name: "Zhaosong Lu"
-  affiliation: "University of Minnesota"
+#9
+- name: "Shan Liu"
+  affiliation: "University of Washington"
   role: "Speaker"
-  url: "https://zhaosong-lu.github.io/"
+  url: "https://ise.washington.edu/facultyfinder/shan-liu"
+
+#10
+- name: "Warren Hare"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Participant"
+  url: "https://cmps.ok.ubc.ca/about/contact/warren-hare/"
+
+#11
+- name: "Gohram Baloch"
+  affiliation: "Simon Fraser University"
+  role: "Participant"
+  url: "https://www.sfu.ca/math/research/cords.html"
+
+#12
+- name: "Amy Wiebe"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Participant"
+  url: "https://cmps.ok.ubc.ca/about/contact/amy-wiebe/"
+
+#13
+- name: "Amaan Khan"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Participant"
+  url: ""
+
+#14
+- name: "Yiwen Chen"
+  affiliation: "University of British Columbia Okanagan"
+  role: "Participant"
+  url: "https://www.yiwenchen.me/"
+
+#15
+- name: "Alexander (Sandy) Rutherford"
+  affiliation: "Simon Fraser University"
+  role: "Participant"
+  url: "https://www.sfu.ca/csmg/people.html"
+
+#16
+- name: "Abby Johnson"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#17
+- name: "Elijah Immer"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#18
+- name: "Adoura Greene"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#19
+- name: "Joanne Song"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#20
+- name: "Julia Young"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#21
+- name: "Cobalt Stamey"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#22
+- name: "Aleksandr Aravkin"
+  affiliation: "University of Washington"
+  role: "Organizer, Speaker"
+  url: "https://uw-amo.github.io/saravkin/"
+
+
+
+
 
 #5
 - name: "Thomas Humphries"
@@ -57,49 +159,46 @@
   role: "Speaker"
   url: "https://friedlander.io/"
 
-#7
-- name: "Vasileios Charisopoulos"
-  affiliation: "University of Washington"
-  role: "Speaker"
-  url: "https://people.ece.uw.edu/vasilis/index.html"
-
-#8
-- name: "Yves Lucet"
-  affiliation: "University of British Columbia Okanagan"
-  role: "Speaker"
-  url: "https://cmps.ok.ubc.ca/about/contact/yves-lucet/"
-
-- name: "Konstantin Golobokov"
-  affiliation: "University of Washington"
-  role: "Speaker"
-  url: "https://kogolobo.github.io/"
-
-- name: "Pengcheng Xie"
-  affiliation: "Lawrence Berkeley National Laboratory & University of California"
-  role: "Participant"
-  url: "https://pxie98.github.io/"
-
-- name: "Warren Hare"
-  affiliation: "University of British Columbia Okanagan"
-  role: "Participant"
-  url: "https://cmps.ok.ubc.ca/about/contact/warren-hare/"
-
-- name: "Amy Wiebe"
-  affiliation: "University of British Columbia Okanagan"
-  role: "Participant"
-  url: "https://cmps.ok.ubc.ca/about/contact/amy-wiebe/"
 
 
-- name: "Amaan Khan"
-  affiliation: "University of British Columbia Okanagan"
-  role: "Participant"
 
-- name: "Gohram Baloch"
-  affiliation: "Simon Fraser University"
-  role: "Participant"
-  url: "https://www.sfu.ca/math/research/cords.html"
 
+
+
+
+#15
 - name: "Jeremy Chiu"
   affiliation: "Simon Fraser University"
   role: "Speaker"
   url: "https://www.sfu.ca/gradstudies/life-community/people-research/profiles/sci/2026/jeremy-chiu.html"
+
+
+#17
+- name: "Abby Johnson"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#18
+- name: "Elijah Immer"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#19
+- name: "Rebecca Miller"
+  affiliation: "University of Washington"
+  role: "Participant"
+  url: ""
+
+#20
+- name: "Joanne Song"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
+
+#21
+- name: "Cobalt Stamey"
+  affiliation: "University of Washington Tacoma"
+  role: "Participant"
+  url: ""
