@@ -40,13 +40,10 @@ Many learning problems seek models that are both accurate and structured, for ex
 
 
 <div class="abstract" markdown="1">
-### Barzilai-Borwein Steps (BB-steps) for Solving Nonsmooth Optimization Problems
+###  Delayed Weighted Subgradient Method (DWSM)
 {: #talk-4 }
 <p class="by">Milagros Loreto - University of Washington Bothell</p>
-<!--
-Abstract TBD
--->
-
+We introduce the Delayed Weighted Subgradient Method with Barzilai–Borwein steps (DWSM), an algorithmic framework tailored for large-scale, unconstrained non-smooth optimization. DWSM accelerates delayed gradient paradigms by integrating subgradient information with alternating classical and adaptive Barzilai–Borwein (ABB) spectral step sizes and non-monotone line search techniques. We present extensive numerical evaluations across standard non-smooth benchmark suites, using Dolan–Moré performance profiles to identify optimal spectral tuning and memory-delay configurations. Comparative results demonstrate that DWSM significantly enhances convergence speed and robustness over existing state-of-the-art non-smooth solvers.
 </div>
 
 <div class="abstract" markdown="1">

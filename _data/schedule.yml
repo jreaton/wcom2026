@@ -48,7 +48,7 @@
   type: talk
   speaker: "Milagros Loreto"
   affiliation: "University of Washington Bothell"
-  title: "Barzilai-Borwein Steps (BB-steps) for Solving Nonsmooth Optimization Problems"
+  title: "Delayed Weighted Subgradient Method (DWSM)"
   abstract_id: "talk-4"
 
 - time: "11:30"
