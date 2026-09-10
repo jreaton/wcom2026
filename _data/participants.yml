@@ -144,27 +144,38 @@
   url: "https://uw-amo.github.io/saravkin/"
 
 
-
-
-
 #5
 - name: "Thomas Humphries"
   affiliation: "University of Washington Bothell"
   role: "Speaker"
   url: "https://www.uwb.edu/faculty/thomas-humphries/"
 
-#6
 - name: "Michael Friedlander"
   affiliation: "University of British Columbia"
-  role: "Speaker"
+  role: "Participant"
   url: "https://friedlander.io/"
 
+ 
+- name: "James Burke"
+  affiliation: "University of Washington, Seattle"
+  role: "participant"
+  url: "https://sites.math.washington.edu//~burke/"
 
 
+- name: "Lavinia Elisa"
+  affiliation: "University of Washington Tacoma"
+  role: "participant"
+  url: ""
 
+- name: "Jalina Sison"
+  affiliation: "University of Washington Tacoma"
+  role: "participant"
+  url: ""
 
-
-
+- name: "Matthew S. Scott"
+  affiliation: "University of British Columbia"
+  role: "Speaker"
+  url: ""
 
 #15
 - name: "Jeremy Chiu"
