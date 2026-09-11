@@ -79,12 +79,11 @@ Recently there has been significant interest in the use of techniques from deep 
 </div>
 
 <div class="abstract" markdown="1">
-### Training machine learning models to identify patients who have experienced homelessness from health administrative data
+### Identifying patients experiencing homelessness in health administrative data with positive-unlabelled learning
 {: #talk-8 }
 <p class="by">Jeremy Chiu - Simon Fraser University </p>
-<!--
-Abstract TBD
--->
+ In collaboration with Vancouver Coastal Health (VCH), we develop a machine learning pipeline that uses administrative health data to identify a cohort of patients who have experienced homelessness (PEH).  The resulting cohort enables population health assessment, surveillance, and service planning for PEH within VCH. In this talk, we share how we trained an ensemble of positive-unlabelled semi-supervised learning classifiers. We also discuss the development of intelligent features (clinically motivated proxies for housing precariousness) and our gender-equitable fitting procedure. We further describe how we select model hyperparameters by jointly minimizing sensitivity and cohort size in the absence of ground-truth labels, and how we identified addresses and postal areas associated with housing precarity.
+This is joint work with Alexander Rutherford and Jessica Stockdale (SFU).
 </div>
 
 

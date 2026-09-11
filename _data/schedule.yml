@@ -80,7 +80,7 @@
   type: talk
   speaker: "Jeremy Chiu"
   affiliation: "Simon Fraser University"
-  title: "Training machine learning models to identify patients who have experienced homelessness from health administrative data"
+  title: "Identifying patients experiencing homelessness in health administrative data with positive-unlabelled learning"
   abstract_id: "talk-8"
 
 - time: "14:30"
