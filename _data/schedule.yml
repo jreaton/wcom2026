@@ -103,9 +103,9 @@
 
 - time: "14:00"
   type: talk
-  speaker: "Matthew S. Scott"
+  speaker: "Matthew Scott"
   affiliation: "University of British Columbia "
-  title: "TBD"
+  title: "Qualification-free duality via reduction to the joint supporting subspace"
   abstract_id: "talk-10"
 
 - time: "14:25"

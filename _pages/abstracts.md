@@ -103,12 +103,14 @@ Evidence-based guidelines play an important role in how chronic diseases are man
 
  
 <div class="abstract" markdown="1">
-### TBD
+### Qualification-free duality via reduction to the joint supporting subspace
 {: #talk-11 }
-<p class="by">Michael Friedlander - University of British Columbia </p>
-<!--
-Abstract TBD
--->
+<p class="by">Matthew Scott - University of British Columbia </p>
+In convex analysis, many results, including additivity of sub-differentials, strong duality, and attainment of dual optimization problems, are only guaranteed when two convex functions
+have domains intersecting on more than just their boundaries, in what is known as a qualification condition.
+We generalize classical results beyond this setting to arbitrary pairs of convex functions.
+We do this with a reduction of the ambient space to the joint supporting subspace, a special affine flat determined by the geometry of the domains. In this talk, we will define the joint supporting subspace and illustrate its behaviour in a number of visual examples. We will show how it relates to symmetric
+differences between two convex sets, and to generated faces. We will also show counter-examples to classical formulas when qualification conditions do not hold, explaining the necessity of qualification conditions, and showing how our modifications to the formulas address the issues.
 </div>
  
 
