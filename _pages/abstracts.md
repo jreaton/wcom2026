@@ -60,10 +60,22 @@ We provide illustrations and examples of some unexpected results.
 </div>
 
 
+ 
+<div class="abstract" markdown="1">
+### Qualification-free duality via reduction to the joint supporting subspace
+{: #talk-6 }
+<p class="by">Matthew Scott - University of British Columbia </p>
+In convex analysis, many results, including additivity of sub-differentials, strong duality, and attainment of dual optimization problems, are only guaranteed when two convex functions
+have domains intersecting on more than just their boundaries, in what is known as a qualification condition.
+We generalize classical results beyond this setting to arbitrary pairs of convex functions.
+We do this with a reduction of the ambient space to the joint supporting subspace, a special affine flat determined by the geometry of the domains. In this talk, we will define the joint supporting subspace and illustrate its behaviour in a number of visual examples. We will show how it relates to symmetric
+differences between two convex sets, and to generated faces. We will also show counter-examples to classical formulas when qualification conditions do not hold, explaining the necessity of qualification conditions, and showing how our modifications to the formulas address the issues.
+</div>
+
 
 <div class="abstract" markdown="1">
 ### Geospatial Healthcare Resource Allocation Problems with Optimization
-{: #talk-6 }
+{: #talk-7 }
 <p class="by">Shan Liu - University of Washington</p>
 Many healthcare resource allocation problems can be framed as geospatial network design problems that balance equity and efficiency in the allocation of scarce resources. This talk will highlight research that uses healthcare data, advanced analytics, and optimization to inform system-level resource allocation at the county and state levels. We first consider the challenge of minimizing turnaround time for HIV viral load testing in Kenya by strategically placing point-of-care testing machines within a hub-and-spoke network. To support implementation, we developed a user-friendly decision-support tool for Kenyan health administrators, along with a queueing-location-allocation model that accounts for stochastic demand and incorporates Conditional Value at Risk within an integer programming framework. We then turn to Washington State, where we assess disparities in access to high-quality trauma care across sociodemographic groups. We develop geospatial and non-geospatial quality metrics and an optimization model that reconfigures hospital functions to improve trauma care quality while explicitly addressing fairness. Together, these projects demonstrate how optimization and advanced analytics can help design healthcare systems that provide timely, location-appropriate access to critical services while balancing efficiency, quality, and equity.  
 </div>
@@ -71,7 +83,7 @@ Many healthcare resource allocation problems can be framed as geospatial network
 
 <div class="abstract" markdown="1">
 ### Superiorization-Based Computed Tomography Reconstruction using Neural Networks
-{: #talk-7 }
+{: #talk-8 }
 <p class="by">Thomas Humphries - University of Washingon Bothell</p>
 Computed Tomography (CT) image reconstruction is typically formulated as approximately solving a large linear system of equations, which is equivalent to a convex feasibility problem. In the presence of noisy or incomplete data, standard iterative methods such as the simultaneous algebraic reconstruction technique (SART) fail to give satisfactory results, necessitating the use of prior information within the reconstruction algorithm. One heuristic approach for incorporating such information is the superiorization methodology (SM), in which iterates are perturbed between each feasibility-seeking step, typically in a descent direction of some penalty function. Under reasonable assumptions about the basic algorithm, the "superiorized" version will eventually converge to a solution which meets the same level of constraints compatibility as the basic algorithm.
 
@@ -80,19 +92,12 @@ Recently there has been significant interest in the use of techniques from deep 
 
 <div class="abstract" markdown="1">
 ### Identifying patients experiencing homelessness in health administrative data with positive-unlabelled learning
-{: #talk-8 }
+{: #talk-9 }
 <p class="by">Jeremy Chiu - Simon Fraser University </p>
  In collaboration with Vancouver Coastal Health (VCH), we develop a machine learning pipeline that uses administrative health data to identify a cohort of patients who have experienced homelessness (PEH).  The resulting cohort enables population health assessment, surveillance, and service planning for PEH within VCH. In this talk, we share how we trained an ensemble of positive-unlabelled semi-supervised learning classifiers. We also discuss the development of intelligent features (clinically motivated proxies for housing precariousness) and our gender-equitable fitting procedure. We further describe how we select model hyperparameters by jointly minimizing sensitivity and cohort size in the absence of ground-truth labels, and how we identified addresses and postal areas associated with housing precarity.
 This is joint work with Alexander Rutherford and Jessica Stockdale (SFU).
 </div>
 
-
-<div class="abstract" markdown="1">
-### Generalized Raking: Formulation, Extensions, and Software 
-{: #talk-9 }
-<p class="by">Aleksandr Aravkin  - University of Washington</p>
-Raking is a critical tool for adjusting inputs to match known totals—arising naturally in calibrating survey weights to census data and reconciling estimates in global health modeling. We review the underlying optimization problem, casting raking as minimizing entropic distance subject to linear constraints, and show a new raking package that captures many high-interest modern extensions, such as uncertainty-weighted raking. We illustrate using simple synthetics and show how the package was used to solve  a complex high-dimensional raking problem that reconciles granular mortality estimates (by race, county and cause) with state all-race mortality estimates from the Global Burden of Disease study. 
-</div>
 
 <div class="abstract" markdown="1">
 ### An Optimize-then-Classify Framework for Designing Population-level Treatment Guidelines
@@ -101,16 +106,12 @@ Raking is a critical tool for adjusting inputs to match known totals—arising n
 Evidence-based guidelines play an important role in how chronic diseases are managed, as these recommendations are widely disseminated and widely implemented. However, these guidelines are often one-size-fits-most, failing to consider patient-to-patient differences. Personalized medicine has shown significant potential to improve health outcomes over guidelines. However, the implementation of personalized medicine may be challenging to implement or result in unwanted practice variation. To optimally balance between personalized medicine and clinical guidelines, we propose an optimize-then-classify framework to design treatment guidelines that are stratified across $G$ groups for a population of patients wherein each person is modeled according to their own contextual Markov Decision Process. We characterize the structural properties of this framework and propose exact and heuristic methods to solve the problem. Using a case study on hypertension treatment, we demonstrate that our guidelines – with only a small number of stratifications – can perform almost as well as fully personalized treatment policies while greatly outperforming several benchmarks.
 </div>
 
- 
+
+
 <div class="abstract" markdown="1">
-### Qualification-free duality via reduction to the joint supporting subspace
+### Generalized Raking: Formulation, Extensions, and Software 
 {: #talk-11 }
-<p class="by">Matthew Scott - University of British Columbia </p>
-In convex analysis, many results, including additivity of sub-differentials, strong duality, and attainment of dual optimization problems, are only guaranteed when two convex functions
-have domains intersecting on more than just their boundaries, in what is known as a qualification condition.
-We generalize classical results beyond this setting to arbitrary pairs of convex functions.
-We do this with a reduction of the ambient space to the joint supporting subspace, a special affine flat determined by the geometry of the domains. In this talk, we will define the joint supporting subspace and illustrate its behaviour in a number of visual examples. We will show how it relates to symmetric
-differences between two convex sets, and to generated faces. We will also show counter-examples to classical formulas when qualification conditions do not hold, explaining the necessity of qualification conditions, and showing how our modifications to the formulas address the issues.
+<p class="by">Aleksandr Aravkin  - University of Washington</p>
+Raking is a critical tool for adjusting inputs to match known totals—arising naturally in calibrating survey weights to census data and reconciling estimates in global health modeling. We review the underlying optimization problem, casting raking as minimizing entropic distance subject to linear constraints, and show a new raking package that captures many high-interest modern extensions, such as uncertainty-weighted raking. We illustrate using simple synthetics and show how the package was used to solve  a complex high-dimensional raking problem that reconciles granular mortality estimates (by race, county and cause) with state all-race mortality estimates from the Global Burden of Disease study. 
 </div>
- 
 

@@ -64,34 +64,34 @@
 
 - time: "13:00"
   type: talk
-  speaker: "Shan Liu"
-  affiliation: "University of Washington"
-  title: "Geospatial Healthcare Resource Allocation Problems with Optimization"
+  speaker: "Matthew Scott"
+  affiliation: "University of British Columbia "
+  title: "Qualification-free duality via reduction to the joint supporting subspace"
   abstract_id: "talk-6"
 
 - time: "13:30"
   type: talk
-  speaker: "Thomas Humphries"
-  affiliation: "University of Washington Bothell"
-  title: "Superiorization-Based Computed Tomography Reconstruction using Neural Networks"
+  speaker: "Shan Liu"
+  affiliation: "University of Washington"
+  title: "Geospatial Healthcare Resource Allocation Problems with Optimization"
   abstract_id: "talk-7"
 
 - time: "14:00"
   type: talk
-  speaker: "Jeremy Chiu"
-  affiliation: "Simon Fraser University"
-  title: "Identifying patients experiencing homelessness in health administrative data with positive-unlabelled learning"
+  speaker: "Thomas Humphries"
+  affiliation: "University of Washington Bothell"
+  title: "Superiorization-Based Computed Tomography Reconstruction using Neural Networks"
   abstract_id: "talk-8"
 
 - time: "14:30"
   type: break
   title: "Coffee break"
 
-- time: "13:00"
+- time: "15:00"
   type: talk
-  speaker: "Aleksandr Aravkin"
-  affiliation: "University of Washington"
-  title: "Generalized Raking: Formulation, Extensions, and Software"
+  speaker: "Jeremy Chiu"
+  affiliation: "Simon Fraser University"
+  title: "Identifying patients experiencing homelessness in health administrative data with positive-unlabelled learning"
   abstract_id: "talk-9"
 
 - time: "15:30"
@@ -103,11 +103,11 @@
 
 - time: "14:00"
   type: talk
-  speaker: "Matthew Scott"
-  affiliation: "University of British Columbia "
-  title: "Qualification-free duality via reduction to the joint supporting subspace"
-  abstract_id: "talk-10"
-
+  speaker: "Aleksandr Aravkin"
+  affiliation: "University of Washington"
+  title: "Generalized Raking: Formulation, Extensions, and Software"
+  abstract_id: "talk-11"
+  
 - time: "14:25"
   type: admin
   title: "Closing remarks"
