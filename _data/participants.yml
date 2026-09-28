@@ -23,187 +23,195 @@
   role: "Participant"
   url: "https://www.sfu.ca/math/research/cords.html"
 
+
 #3
+- name: "Mathias Barreto"
+  affiliation: "University of British Columbia"
+  role: "Participant"
+  url: "https://www.math.ubc.ca/user/4284"
+
+
+#4
 - name: "James Burke"
   affiliation: "University of Washington, Seattle"
   role: "participant"
   url: "https://sites.math.washington.edu//~burke/"
 
-#4
+#5
 - name: "Vasileios Charisopoulos"
   affiliation: "University of Washington"
   role: "Speaker"
   url: "https://people.ece.uw.edu/vasilis/index.html"
 
-#5
+#6
 - name: "Yiwen Chen"
   affiliation: "University of British Columbia Okanagan"
   role: "Participant"
   url: "https://www.yiwenchen.me/"
 
-#6
+#7
 - name: "Jeremy Chiu"
   affiliation: "Simon Fraser University"
   role: "Speaker"
   url: "https://www.sfu.ca/gradstudies/life-community/people-research/profiles/sci/2026/jeremy-chiu.html"
 
-#7
+#8
 - name: "Julia Eaton"
   affiliation: "University of Washington, Tacoma"
   role: "Organizer"
   url: "https://faculty.washington.edu/jreaton/"
 
-#8
+#9
 - name: "Lavina Elisa"
   affiliation: "University of Washington Tacoma"
   role: "participant"
   url: ""
 
-#9
+#10
 - name: "Michael Friedlander"
   affiliation: "University of British Columbia"
   role: "Participant"
   url: "https://friedlander.io/"
 
-#10
+#11
 - name: "Gian-Gabriel Garcia"
   affiliation: "University of Washington"
   role: "Speaker"
   url: "https://ise.washington.edu/facultyfinder/gian-gabriel-palaci-garcia"
 
-#11
+#12
 - name: "Konstantin Golobokov"
   affiliation: "University of Washington"
   role: "Speaker"
   url: "https://kogolobo.github.io/"
 
-#12
+#13
 - name: "Adoura Greene"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#13
+#14
 - name: "Warren Hare"
   affiliation: "University of British Columbia Okanagan"
   role: "Participant"
   url: "https://cmps.ok.ubc.ca/about/contact/warren-hare/"
 
-#14
+#15
 - name: "Thomas Humphries"
   affiliation: "University of Washington Bothell"
   role: "Speaker"
   url: "https://www.uwb.edu/faculty/thomas-humphries/"
 
-#15
+#16
 - name: "Elijah Immer"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#16
+#17
 - name: "Abby Johnson"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#17
+#18
 - name: "Tanmaya Karmarkar"
   affiliation: "University of British Columbia"
   role: "Participant"
   url: ""
 
-#18
+#19
 - name: "Amaan Khan"
   affiliation: "University of British Columbia Okanagan"
   role: "Participant"
   url: ""
 
-#19
+#20
 - name: "Milagros Loreto"
   affiliation: "University of Washington Bothell"
   role: "Speaker"
   url: "https://www.uwb.edu/faculty/milagros-loreto/"
 
-#20
+#21
 - name: "Shan Liu"
   affiliation: "University of Washington"
   role: "Speaker"
   url: "https://ise.washington.edu/facultyfinder/shan-liu"
 
-#21
+#22
 - name: "Zhaosong Lu"
   affiliation: "University of Minnesota"
   role: "Speaker"
   url: "https://zhaosong-lu.github.io/"
 
-#22
+#23
 - name: "Yves Lucet"
   affiliation: "University of British Columbia Okanagan"
   role: "Speaker"
   url: "https://cmps.ok.ubc.ca/about/contact/yves-lucet/"
 
-#23
+#24
 - name: "Rebecca Miller"
   affiliation: "University of Washington"
   role: "Participant"
   url: ""
 
-#24
+#25
 - name: "Alexander (Sandy) Rutherford"
   affiliation: "Simon Fraser University"
   role: "Participant"
   url: "https://www.sfu.ca/csmg/people.html"
 
-#25
+#26
 - name: "Matthew S. Scott"
   affiliation: "University of British Columbia"
   role: "Speaker"
   url: ""
 
-#26
+#27
 - name: "Jalina Sison"
   affiliation: "University of Washington Tacoma"
   role: "participant"
   url: ""
 
-#27
+#28
 - name: "Joanne Song"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#28
+#29
 - name: "Cobalt Stamey"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#29
+#30
 - name: "Ana Torres"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#30
+#31
 - name: "Devyn Vargas"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#31
+#32
 - name: "Amy Wiebe"
   affiliation: "University of British Columbia Okanagan"
   role: "Participant"
   url: "https://cmps.ok.ubc.ca/about/contact/amy-wiebe/"
 
-#32
+#33
 - name: "Pengcheng Xie"
   affiliation: "Lawrence Berkeley National Laboratory & University of California"
   role: "Participant"
   url: "https://pxie98.github.io/"
 
-#33
+#34
 - name: "Julia Young"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
