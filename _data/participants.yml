@@ -188,30 +188,37 @@
   url: ""
 
 #30
+- name: "Trevor Tidy"
+  affiliation: "University of British Columbia"
+  role: "Participant"
+  url: ""
+
+
+#31
 - name: "Ana Torres"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#31
+#32
 - name: "Devyn Vargas"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
   url: ""
 
-#32
+#33
 - name: "Amy Wiebe"
   affiliation: "University of British Columbia Okanagan"
   role: "Participant"
   url: "https://cmps.ok.ubc.ca/about/contact/amy-wiebe/"
 
-#33
+#34
 - name: "Pengcheng Xie"
   affiliation: "Lawrence Berkeley National Laboratory & University of California"
   role: "Participant"
   url: "https://pxie98.github.io/"
 
-#34
+#35
 - name: "Julia Young"
   affiliation: "University of Washington Tacoma"
   role: "Participant"
