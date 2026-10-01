@@ -21,21 +21,21 @@
 
 - time: "09:00"
   type: talk
-  speaker: "Zhaosong Lu"
+  speaker: "1. Zhaosong Lu"
   affiliation: "University of Minnesota"
   title: "First-order methods for nonconvex–nonconcave minimax optimization under a local Kurdyka–Łojasiewicz condition"
   abstract_id: "talk-1"
 
 - time: "09:30"
   type: talk
-  speaker: "Vasilis Charisopoulos"
+  speaker: "2. Vasilis Charisopoulos"
   affiliation: "University of Washington"
   title: "Local Linear Convergence of Gradient Methods for Overparameterized Gaussian Mixtures"
   abstract_id: "talk-2"
 
 - time: "10:00"
   type: talk
-  speaker: "Konstantin Golobokov"
+  speaker: "3. Konstantin Golobokov"
   affiliation: "University of Washington"
   title: "Aggregate Proximal Method for Structured Stochastic Optimization: Convergence and Manifold Identification"
   abstract_id: "talk-3"
@@ -46,14 +46,14 @@
 
 - time: "11:00"
   type: talk
-  speaker: "Milagros Loreto"
+  speaker: "4. Milagros Loreto"
   affiliation: "University of Washington Bothell"
   title: "Delayed Weighted Subgradient Method (DWSM)"
   abstract_id: "talk-4"
 
 - time: "11:30"
   type: talk
-  speaker: "Yves Lucet"
+  speaker: "5. Yves Lucet"
   affiliation: "University of British Colubmia Okanagan"
   title: "Exact Conjugation and Biconjugation of Nonconvex Piecewise Linear-Quadratic Functions"
   abstract_id: "talk-5"
@@ -64,21 +64,21 @@
 
 - time: "13:00"
   type: talk
-  speaker: "Matthew Scott"
+  speaker: "6. Matthew Scott"
   affiliation: "University of British Columbia "
   title: "Qualification-free duality via reduction to the joint supporting subspace"
   abstract_id: "talk-6"
 
 - time: "13:30"
   type: talk
-  speaker: "Shan Liu"
+  speaker: "7. Shan Liu"
   affiliation: "University of Washington"
   title: "Geospatial Healthcare Resource Allocation Problems with Optimization"
   abstract_id: "talk-7"
 
 - time: "14:00"
   type: talk
-  speaker: "Thomas Humphries"
+  speaker: "8. Thomas Humphries"
   affiliation: "University of Washington Bothell"
   title: "Superiorization-Based Computed Tomography Reconstruction using Neural Networks"
   abstract_id: "talk-8"
@@ -89,21 +89,21 @@
 
 - time: "15:00"
   type: talk
-  speaker: "Jeremy Chiu"
+  speaker: "9. Jeremy Chiu"
   affiliation: "Simon Fraser University"
   title: "Identifying patients experiencing homelessness in health administrative data with positive-unlabelled learning"
   abstract_id: "talk-9"
 
 - time: "15:30"
   type: talk
-  speaker: "Gian-Gabriel Garcia"
+  speaker: "10. Gian-Gabriel Garcia"
   affiliation: "University of Washington"
   title: "An Optimize-then-Classify Framework for Designing Population-level Treatment Guidelines"
   abstract_id: "talk-10"
 
 - time: "16:00"
   type: talk
-  speaker: "Aleksandr Aravkin"
+  speaker: "11. Aleksandr Aravkin"
   affiliation: "University of Washington"
   title: "Generalized Raking: Formulation, Extensions, and Software"
   abstract_id: "talk-11"
